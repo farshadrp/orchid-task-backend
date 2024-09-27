@@ -15,12 +15,6 @@
       "dest": "server.js"
     }
   ],
-  "functions": {
-    "server.js": {
-      "memory": 1024,
-      "includeFiles": "db/db.json"
-    }
-  },
   "rewrites": [
     {
       "source": "/(.*)",
